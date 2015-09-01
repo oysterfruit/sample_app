@@ -15,3 +15,10 @@
 /log/*
 !/log/.keep
 /tmp
+
+# extra items from listing 1.5 in rails book
+doc/api
+doc/app
+*.swp
+*~
+.DS_Store
